@@ -1,0 +1,9 @@
+name: wHolyTNT
+version: '1.0'
+main: com.worstek.wHolyTNT
+api-version: '1.16'
+depend: [WorldGuard]
+author: Worstek
+commands:
+  wholytnt:
+    aliases: [wtnt, whtnt]
