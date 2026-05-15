@@ -7,3 +7,4 @@ author: Worstek
 commands:
   wholytnt:
     aliases: [wtnt, whtnt]
+    permission: 'wholytnt.admin'
